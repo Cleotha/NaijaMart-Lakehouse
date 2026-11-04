@@ -1,0 +1,332 @@
+customer_id,full_name,email,phone,city,signup_date,updated_at
+1167,Chidi Udo,chidi.udo1167@example.com,+2348019535294,kaduna,2022-07-18,2022-07-18
+1074,ifeoma olawale,ifeoma.olawale1074@example.com,08085187938,Kano,2023-08-31,2023-08-31
+1029,Bola Okon,bola.okon1029@example.com,,Abuja,2022-11-20,2022-11-20
+1217,Bola Bello,BOLA.BELLO1217@EXAMPLE.COM,08036823213,Abuja,21/02/2023,2023-02-21
+1300,IFEOMA ADE,IFEOMA.ADE1300@EXAMPLE.COM,0806 106 2348,Abuja ,2023-10-10,2023-10-10
+1222,Zainab Adebayo,zainab.adebayo1222@example.com,08074824335,KADUNA,2024-03-31,2024-03-31
+1291,AISHA IBRAHIM,aisha.ibrahim1291@example.com,0804 926 5524,Kano,2023/11/03,2023-11-03
+1013,Yusuf Ibrahim,yusuf.ibrahim1013example.com,08036681370,Lagos,2023-07-14,2023-07-14
+1008,Bola Balogun,bola.balogun1008@example.com,08051289034,Kaduna,2022-09-15,2022-09-15
+1208,daniel udo,daniel.udo1208@example.com,,kano,2024-04-26,2024-04-26
+1272,Zainab Ogunleye,zainab.ogunleye1272@example.com,08059918704,Kaduna,2023-10-05,2023-10-05
+1092,Emeka Musa,emeka.musa1092@example.com,+2348089813977,Port Harcourt ,2023/01/22,2023-01-22
+1017,Funke Eze,funke.eze1017@example.com,08013461507,Kaduna,2024-05-03,2024-05-03
+1110,Ngozi Nnamdi,ngozi.nnamdi1110@example.com,0806 833 8143,Ibadan,2023-09-13,2023-09-13
+1128,Kemi Danjuma,kemi.danjuma1128@example.com,0805 632 5053,Ibadan,2024/03/28,2024-03-28
+1234,DANIEL DANJUMA,daniel.danjuma1234@example.com,0805 569 9124,Lagos,2022-10-01,2022-10-01
+1233,BOLA ADEBAYO,bola.adebayo1233@example.com,+2348044350552,Lagos,2022-06-24,2022-06-24
+1005,Grace Adeyemi,grace.adeyemi1005@example.com,08025629378,Kaduna,13/02/2023,2023-02-13
+1041,Daniel Danjuma,daniel.danjuma1041@example.com,08024082320,Benin City,2023-10-22,2023-10-22
+1259,Ibrahim Ibrahim,ibrahim.ibrahim1259@example.com,+2348014190566,Ibadan,2023-06-09,2023-06-09
+1164,musa okon,musa.okon1164example.com,,benin city,2023-10-06,2023-10-06
+1278,Segun Ojo,segun.ojo1278@example.com,08030385560,Enugu,2023-08-02,2023-08-02
+1113,Bola Adebayo,,08079418716,Kano ,2024-01-16,2024-01-16
+1054,zainab ade,zainab.ade1054@example.com,+2348026218891,Kano,13/01/2022,2022-01-13
+1133,Seyi Olawale,seyi.olawale1133@example.com,+2348044092391,Enugu,17/12/2022,2022-12-17
+1137,Femi Bello,femi.bello1137@example.com,08067820767,Benin City,2023-12-20,2023-12-20
+1229,Obinna Okon,obinna.okon1229@example.com,08055546940,Benin City,2022/07/04,2022-08-21
+1061,  Zainab Ade ,zainab.ade1061@example.com,0808 543 6113,Port Harcourt,2023/11/08,2023-11-08
+1296,Ada Adebayo,ada.adebayo1296@example.com,08096612589,Ibadan,2023/12/08,2023-12-08
+1216,Amina Adeyemi,amina.adeyemi1216@example.com,0805 081 1546,kaduna,2023-02-06,2023-02-06
+1241,Ada Etim,ada.etim1241@example.com,08031022449,IBADAN,2022-01-09,2022-01-09
+1102,Halima Ogunleye,halima.ogunleye1102@example.com,08011811890,Benin City,2022-12-26,2022-12-26
+1212,Ngozi Yakubu,NGOZI.YAKUBU1212@EXAMPLE.COM,+2348031091240,Kaduna,2022-12-07,2022-12-07
+,Ghost Customer,femi.ibrahim1151example.com,08028562197,Lagos,2022-09-08,2022-09-08
+1142,Sola Etim,sola.etim1142@example.com,08022282091,kano,2023/06/08,2023-06-08
+1229,Obinna Okon,obinna.okon1229@example.com,08055546940,Enugu,2022/07/04,2022-07-04
+1101,  Daniel Ade ,daniel.ade1101@example.com,0809 448 1670,Kano,2023-07-30,2023-07-30
+1001,Ibrahim Ade,ibrahim.ade1001@example.com,0802 377 5684,Benin City,30/05/2023,2023-05-30
+1048,Sola Abubakar,sola.abubakar1048@example.com,08033722079,Kaduna ,2023-11-04,2023-11-04
+1021,TUNDE YAKUBU,tunde.yakubu1021@example.com,08081539513,Abuja,2024-05-14,2024-05-14
+1045,IFEOMA NNAMDI,ifeoma.nnamdi1045@example.com,08075037186,Abuja,2022-09-12,2022-09-12
+1171,seyi alade,seyi.alade1171@example.com,08038354028,Lagos,2024-04-20,2024-04-20
+1224,Bisi Alade,BISI.ALADE1224@EXAMPLE.COM,0803 990 4251,Benin City ,2024-06-14,2024-06-14
+1020,NNEKA ADEBAYO,nneka.adebayo1020@example.com,08012747414,Ibadan,2023/10/19,2023-10-19
+1052,Bola Yakubu,bola.yakubu1052@example.com,08083338071,Benin City,2024/05/17,2024-05-17
+1059,Amina Sani,amina.sani1059@example.com,08050811259,Lagos,08/10/2022,2022-10-08
+1067,Funke Garba,,08053554102,Lagos,2023-11-28,2023-11-28
+1015,Zainab Ibrahim,zainab.ibrahim1015@example.com,08077742558,Benin City,15/05/2022,2022-05-15
+1033,Peter Okon,peter.okon1033@example.com,08026805141,Lagos,2022-09-03,2022-09-03
+1030,  Bola Alade ,bola.alade1030@example.com,+2348017735063,Benin City,2023-02-03,2023-02-03
+1178,Amina Etim,amina.etim1178@example.com,08090745957,Kaduna,2023-13-40,2023-04-22
+1099,Peter Okeke,peter.okeke1099@example.com,08042556548,kano,2022-09-27,2022-09-27
+,Ghost Customer,chinedu.bakare1066@example.com,,Lagos ,2023/11/28,2023-11-28
+1038,Seyi Garba,seyi.garba1038@example.com,08087924088,Port Harcourt,2023/07/16,2023-07-16
+1172,Daniel Okon,daniel.okon1172@example.com,0806 032 4648,Abuja,2024-01-26,2024-01-26
+1076,bola garba,bola.garba1076@example.com,,Kaduna,2023-08-01,2023-08-01
+1282,Nneka Ibrahim,nneka.ibrahim1282example.com,08016325197,Kano,2022-05-23,2022-05-23
+1025,Musa Abubakar,musa.abubakar1025@example.com,+2348099967131,Abuja,2022-08-08,2022-08-08
+1260,Obinna Ojo,obinna.ojo1260@example.com,08031580467,Enugu,2024-04-25,2024-04-25
+1043,Seyi Okafor,seyi.okafor1043@example.com,08066727512,Port Harcourt,2024-05-17,2024-05-17
+1299,Musa Okafor,musa.okafor1299@example.com,08067349468,kano,2022-01-06,2022-01-06
+1157,funke obi,funke.obi1157@example.com,08031614540,Ibadan,2022-09-30,2022-09-30
+1057,Tunde Balogun,tunde.balogun1057@example.com,+2348073185648,Enugu,2024-01-22,2024-01-22
+1161,Folake Etim,folake.etim1161@example.com,08050081864,Abuja,26/08/2023,2023-08-26
+1063,DANIEL OBI,daniel.obi1063@example.com,08075576576,Enugu,2023-06-11,2023-06-11
+1134,Seyi Olawale,seyi.olawale1134@example.com,+2348017021049,Lagos,2024-02-16,2024-02-16
+1149,emeka sani,emeka.sani1149@example.com,08042927294,lagos,2022-03-27,2022-03-27
+1112,daniel udo,daniel.udo1112@example.com,08080778403,Benin City,2022-09-17,2022-09-17
+1195,   ,aisha.sani1195@example.com,+2348013906032,Ibadan,2023/03/15,2023-03-15
+1249,KEMI SALAMI,kemi.salami1249@example.com,08087436736,benin city,2022-05-09,2022-05-09
+1156,Segun Musa,segun.musa1156@example.com,08079552744,Enugu,2023-02-09,2023-02-09
+1154,Grace Musa,grace.musa1154example.com,0808 837 5364,Abuja,2023/01/12,2023-01-12
+1023,Bisi Ogunleye,bisi.ogunleye1023@example.com,0802 249 8300,Enugu,07/04/2022,2022-04-07
+1162,Emeka Nwosu,emeka.nwosu1162@example.com,08033894407,Enugu,2024/02/07,2024-02-07
+1238,Ada Olawale,,08065446289,Enugu,2022-09-10,2022-09-10
+1295,hauwa adebayo,hauwa.adebayo1295example.com,08022876109,Lagos,2023-12-27,2024-05-01
+1254,Daniel Lawal,daniel.lawal1254@example.com,08048568733,Ibadan,2022-01-22,2022-01-22
+1153,Nneka Etim,nneka.etim1153@example.com,08036393122,Port Harcourt,2022-03-11,2022-03-11
+1105,Halima Olawale,halima.olawale1105@example.com,08065883387,Kano,2023-06-13,2023-06-13
+1131,amina ojo,amina.ojo1131@example.com,08037120200,enugu,2023-07-08,2023-07-08
+1118,ada bello,ada.bello1118@example.com,+2348016674244,kaduna,2022-08-12,2022-08-12
+1006,Musa Ojo,musa.ojo1006@example.com,08087244482,Port Harcourt,2023-05-06,2023-05-06
+1089,Peter Alade,peter.alade1089@example.com,08012542354,Port Harcourt,2023-10-24,2023-10-24
+1269,Amina Balogun,,08021247750,Ibadan,2022-04-02,2022-04-02
+1095,Kemi Obi,KEMI.OBI1095@EXAMPLE.COM,08088820916,Ibadan,2023-01-26,2023-01-26
+1262,HALIMA EZE,halima.eze1262@example.com,,Kano ,2022-11-07,2022-11-07
+1247,Peter Eze,peter.eze1247@example.com,,Kano,2022-05-03,2022-05-03
+1002,Chinedu Lawal,chinedu.lawal1002@example.com,+2348010340220,Abuja ,2024-02-09,2024-02-09
+1151,Femi Ibrahim,femi.ibrahim1151example.com,08028562197,Lagos,2022-09-08,2022-09-08
+1207,Aisha Balogun,aisha.balogun1207@example.com,08019705763,Kano,2023-06-16,2023-06-16
+1248,Daniel Nwosu,daniel.nwosu1248@example.com,08025961525,Kaduna,2023-05-27,2023-05-27
+1145,Peter Okafor,peter.okafor1145example.com,08059694461,Lagos,N/A,2022-07-03
+1228,Ngozi Okafor,ngozi.okafor1228@example.com,08029157337,Lagos,05/04/2024,2024-07-28
+1010,Yusuf Etim,yusuf.etim1010@example.com,+2348084871749,Lagos,2024/02/25,2024-02-25
+1035,Seyi Ibrahim,seyi.ibrahim1035@example.com,0809 727 0142,Kano,02/04/2022,2022-04-02
+1146,sola okafor,sola.okafor1146@example.com,08027591590,kaduna,2024/01/04,2024-01-04
+1024,Hauwa Bakare,,+2348085430704,Port Harcourt,2022-01-28,2022-06-17
+1298,Kemi Ibrahim,kemi.ibrahim1298@example.com,+2348028995682,Ibadan,2024-06-13,2024-06-13
+1202,Kemi Alade,kemi.alade1202@example.com,,Lagos,2024-01-07,2024-01-07
+1011,Ibrahim Garba,ibrahim.garba1011@example.com,08044739729,Port Harcourt,2023-12-07,2023-12-07
+1094,bola yakubu,bola.yakubu1094example.com,08092274868,Port Harcourt,2023-05-05,2023-05-05
+1071,Ibrahim Adebayo,ibrahim.adebayo1071@example.com,08031215328,Ibadan,2022/03/22,2022-03-22
+1065,aisha yakubu,aisha.yakubu1065@example.com,08034023137,ENUGU,2024-06-05,2024-06-05
+1294,   ,ibrahim.sani1294@example.com,08070940483,Ibadan ,2022-05-10,2022-05-10
+1119,IFEOMA EZE,ifeoma.eze1119@example.com,08040787113,Abuja,2022-10-24,2022-10-24
+1187,Obinna Sani,obinna.sani1187@example.com,08048909325,Benin City,2024/05/04,2024-05-04
+1127,Musa Olawale,musa.olawale1127@example.com,,kaduna,2023-04-28,2023-04-28
+1050,Bisi Ogunleye,,08094137981,Enugu,2024-06-06,2024-06-06
+1264,Sola Eze,sola.eze1264@example.com,,Abuja,2022-10-24,2022-10-24
+1290,Ifeoma Adeyemi,ifeoma.adeyemi1290example.com,08010450163,Abuja,2024-05-23,2024-05-23
+1168,  Bola Umeh ,bola.umeh1168@example.com,08019758575,enugu,2022-10-04,2022-10-04
+1120,Musa Umeh,MUSA.UMEH1120@EXAMPLE.COM,,Lagos,2024-01-23,2024-01-23
+1181,Grace Abubakar,grace.abubakar1181@example.com,08080329766,Ibadan,2022-11-06,2022-11-06
+1073,Yusuf Salami,yusuf.salami1073@example.com,08028514997,Port Harcourt,2022-10-07,2022-10-07
+1293,Chidi Eze,chidi.eze1293@example.com,08046774392,Ibadan ,2022-09-11,2022-09-11
+1177,Ada Johnson,ada.johnson1177@example.com,+2348011442247,Lagos,2023-08-12,2023-08-12
+1242,Tunde Lawal,tunde.lawal1242@example.com,0808 402 1422,Kano ,2022-10-29,2022-10-29
+1252,Aisha Johnson,aisha.johnson1252@example.com,08022355116,Ibadan ,2022-09-21,2022-09-21
+1016,Bola Ibrahim,bola.ibrahim1016@example.com,08029936204,Ibadan,2022-11-10,2022-11-10
+1040,Obinna Abubakar,OBINNA.ABUBAKAR1040@EXAMPLE.COM,0803 914 1699,Kano,2022-04-14,2022-04-14
+1295,hauwa adebayo,hauwa.adebayo1295example.com,08022876109,Kaduna,2023-12-27,2023-12-27
+1289,Femi Okafor,femi.okafor1289@example.com,0808 942 5804,Kano ,2023-09-26,2023-09-26
+1007,Hauwa Musa,hauwa.musa1007@example.com,0807 470 8126,Abuja,2024-01-05,2024-01-05
+1275,Zainab Ogunleye,zainab.ogunleye1275@example.com,08045894128,Ibadan ,2023-10-25,2023-10-25
+1188,Funke Balogun,funke.balogun1188@example.com,08039052337,Port Harcourt,2023-08-29,2023-08-29
+1116,Chinedu Sani,chinedu.sani1116@example.com,08074398286,Benin City,2023/01/31,2023-01-31
+1091,Obinna Lawal,obinna.lawal1091@example.com,,Abuja,2023-10-07,2023-10-07
+1139,Titi Salami,titi.salami1139@example.com,08083808359,Ibadan,2024-04-06,2024-04-06
+1103,Aisha Nwosu,aisha.nwosu1103@example.com,08013910766,IBADAN,2023-07-27,2023-07-27
+1286,Zainab Okeke,zainab.okeke1286@example.com,08014711886,Enugu,2022-05-24,2022-05-24
+1104,Femi Bakare,femi.bakare1104@example.com,08083195328,abuja,2023-03-22,2023-03-22
+1200,Titi Eze,titi.eze1200@example.com,0802 016 0097,Port Harcourt ,2022-10-18,2022-10-18
+1064,TITI BALOGUN,titi.balogun1064@example.com,+2348030549766,Port Harcourt,2022-07-13,2022-07-13
+1080,Musa Okon,musa.okon1080@example.com,08039335391,Lagos,2023-05-10,2023-05-10
+1062,Daniel Etim,daniel.etim1062example.com,,Lagos,2024-06-08,2024-06-08
+1261,Yusuf Musa,yusuf.musa1261@example.com,08083588126,Port Harcourt,2024-03-10,2024-03-10
+1256,  Titi Yakubu ,titi.yakubu1256@example.com,08076897901,Benin City,2023-03-16,2023-03-16
+1250,   ,bola.garba1250@example.com,08023576722,Kano,2022-12-09,2022-12-09
+1196,Ifeoma Ade,ifeoma.ade1196@example.com,08093425386,lagos,28/04/2024,2024-04-28
+1199,Titi Eze,titi.eze1199@example.com,,Abuja,24/05/2024,2024-05-24
+1253,chidi ade,chidi.ade1253@example.com,08095950083,Abuja,2022-11-15,2022-11-15
+1077,ada musa,ada.musa1077@example.com,08044218572,Lagos,2023-02-06,2023-02-06
+1144,Bola Alade,bola.alade1144@example.com,0807 949 6093,Abuja,05/03/2024,2024-03-05
+1203,Halima Ojo,halima.ojo1203@example.com,08054022018,Kano,2023-03-24,2023-03-24
+1135,Ibrahim Okeke,ibrahim.okeke1135@example.com,08045462268,Benin City ,2023/10/23,2023-10-23
+1085,Femi Etim,femi.etim1085@example.com,+2348035501820,kaduna,2023-10-08,2023-10-08
+1214,   ,folake.umeh1214@example.com,08065208401,Enugu,2023-10-26,2023-10-26
+1191,Tunde Ade,tunde.ade1191@example.com,08077234982,Abuja,2023-01-30,2023-01-30
+1225,BOLA SALAMI,bola.salami1225example.com,0805 023 9819,Ibadan,27/04/2024,2024-04-27
+1285,Amina Eze,amina.eze1285@example.com,0802 585 7636,Abuja,2023-09-05,2023-09-05
+1143,Emeka Ade,emeka.ade1143@example.com,08040315990,kano,2024-04-09,2024-04-09
+1164,musa okon,musa.okon1164example.com,,Kaduna,2023-10-06,2023-11-13
+1034,Peter Salami,peter.salami1034@example.com,08012227450,Kaduna,2022-09-19,2022-09-19
+1210,Ibrahim Etim,ibrahim.etim1210@example.com,08056963804,Abuja,2022-03-03,2022-03-03
+1239,Titi Adebayo,titi.adebayo1239@example.com,08084428120,Kaduna,2022-04-27,2022-04-27
+1277,SOLA BAKARE,sola.bakare1277@example.com,08060901527,benin city,2022-03-26,2022-03-26
+1129,  Bola Johnson ,bola.johnson1129@example.com,08023871507,Abuja ,2022-06-05,2022-06-05
+1083,Chidi Alade,chidi.alade1083@example.com,08060229449,Port Harcourt,09/02/2024,2024-02-09
+1152,Ifeoma Umeh,IFEOMA.UMEH1152@EXAMPLE.COM,0805 552 4540,Port Harcourt,2024-04-11,2024-04-11
+1141,Sola Ogunleye,sola.ogunleye1141@example.com,0804 702 8207,Kaduna,25/10/2022,2022-10-25
+1182,Musa Olawale,musa.olawale1182@example.com,08054591543,kaduna,2023-13-40,2023-06-30
+1084,Seyi Danjuma,seyi.danjuma1084@example.com,+2348083779421,Enugu,2023-12-31,2023-12-31
+1093,SEGUN OJO,segun.ojo1093@example.com,08023030600,Kaduna,2024/01/24,2024-01-24
+1009,femi alade,femi.alade1009@example.com,,Kaduna,2022-01-10,2022-01-10
+1258,Sola Udo,sola.udo1258@example.com,+2348089660560,ibadan,2023-09-18,2023-09-18
+1185,Obinna Okon,,08045759511,Kaduna,2024/01/22,2024-01-22
+1165,Amina Balogun,amina.balogun1165@example.com,+2348062694279,Enugu ,2023-02-19,2023-02-19
+1279,  Aisha Eze ,aisha.eze1279@example.com,08065969149,Benin City,2022-04-02,2022-04-02
+1166,  Chinedu Okon ,chinedu.okon1166@example.com,08018821881,Port Harcourt,2024/06/10,2024-09-10
+1280,Amina Yakubu,amina.yakubu1280example.com,+2348061387040,port harcourt,2023/10/30,2023-10-30
+1274,Bola Lawal,bola.lawal1274example.com,08041691465,BENIN CITY,2024-06-14,2024-06-14
+1263,ibrahim ibrahim,ibrahim.ibrahim1263@example.com,08042860793,Benin City ,2023-03-10,2023-03-10
+1030,  Bola Alade ,bola.alade1030@example.com,+2348017735063,Benin City,2023-02-03,2023-02-03
+1228,Ngozi Okafor,ngozi.okafor1228@example.com,08029157337,abuja,05/04/2024,2024-04-05
+1113,Bola Adebayo,,08079418716,Kano ,2024-01-16,2024-01-16
+1127,Musa Olawale,musa.olawale1127@example.com,,Port Harcourt,2023-04-28,2024-03-18
+1232,Nneka Sani,nneka.sani1232@example.com,08032756584,Kano,2022-12-03,2022-12-03
+1176,Chidi Alade,chidi.alade1176@example.com,08021838188,Ibadan,2024-04-30,2024-04-30
+1180,Femi Umeh,femi.umeh1180@example.com,08010553951,Benin City,2022-05-11,2022-05-11
+1179,Kemi Alade,kemi.alade1179@example.com,0801 601 6998,KADUNA,2022-10-21,2022-10-21
+1056,Yusuf Bello,yusuf.bello1056@example.com,+2348021312162,port harcourt,2023-09-13,2023-09-13
+1072,Grace Okafor,grace.okafor1072@example.com,0809 513 1197,Kano,2023-07-15,2023-07-15
+1060,Seyi Yakubu,seyi.yakubu1060@example.com,,Abuja,2023-06-06,2023-06-06
+1283,  Tunde Musa ,tunde.musa1283example.com,08040781314,Kaduna,2024-06-16,2024-06-16
+1108,chinedu obi,chinedu.obi1108@example.com,08018417304,Lagos,2022-04-04,2022-04-04
+1270,Bola Salami,bola.salami1270@example.com,08033794143,Lagos ,2022-04-13,2022-04-13
+1246,Titi Okafor,titi.okafor1246@example.com,,Kaduna,2023/04/03,2023-04-03
+1281,Chinedu Olawale,chinedu.olawale1281@example.com,08028331233,Benin City,2023-06-03,2023-06-03
+1024,Hauwa Bakare,,+2348085430704,ibadan,2022-01-28,2022-01-28
+1042,MUSA YAKUBU,musa.yakubu1042@example.com,08049633400,ENUGU,2024/03/17,2024-03-17
+1106,Segun Yakubu,segun.yakubu1106@example.com,08096388719,Ibadan,2022-06-04,2022-06-04
+1268,Ada Olawale,ada.olawale1268@example.com,,Kaduna,2022-09-21,2022-09-21
+1037,Sola Umeh,sola.umeh1037@example.com,+2348041207329,Kano,2023-02-13,2023-02-13
+1090,Emeka Ogunleye,emeka.ogunleye1090@example.com,08053270963,ABUJA,2024-04-17,2024-04-17
+1251,Amina Garba,amina.garba1251@example.com,,Benin City,2022/10/17,2022-10-17
+1117,Kemi Balogun,kemi.balogun1117example.com,08054407067,Benin City ,12/07/2023,2023-07-12
+1265,Chinedu Nnamdi,chinedu.nnamdi1265@example.com,08089315290,Port Harcourt,2023-11-16,2023-11-16
+1215,Amina Ojo,amina.ojo1215@example.com,08095947166,Lagos,2024-05-15,2024-05-15
+1003,Sola Yakubu,sola.yakubu1003@example.com,08043757517,Enugu,2023-05-18,2023-05-18
+1288,Kemi Sani,kemi.sani1288@example.com,+2348044262006,Enugu,2022-12-23,2022-12-23
+1114,Bola Bello,bola.bello1114@example.com,08095609684,Enugu,2023-09-08,2023-09-08
+1018,Ibrahim Lawal,ibrahim.lawal1018@example.com,+2348030654844,Ibadan,2023-04-23,2023-04-23
+1276,  Daniel Balogun ,daniel.balogun1276@example.com,08036610697,Benin City,2022/04/08,2022-04-08
+1026,Ibrahim Yakubu,ibrahim.yakubu1026@example.com,+2348034896742,Abuja,03/03/2022,2022-03-03
+1088,Ada Udo,ada.udo1088@example.com,08093554858,IBADAN,31/01/2023,2023-01-31
+1158,Aisha Obi,aisha.obi1158@example.com,0809 847 2616,port harcourt,14/06/2023,2023-06-14
+1022,Yusuf Lawal,yusuf.lawal1022@example.com,08033751475,Ibadan,2024-03-09,2024-09-26
+1240,Aisha Balogun,aisha.balogun1240@example.com,08056022566,Port Harcourt,2024-04-08,2024-09-25
+1021,TUNDE YAKUBU,tunde.yakubu1021@example.com,08081539513,Port Harcourt,2024-05-14,2025-04-12
+1193,Kemi Udo,kemi.udo1193@example.com,0805 842 7402,Kano,2022-02-03,2022-02-03
+1243,Ibrahim Lawal,ibrahim.lawal1243@example.com,08028281511,Abuja,2022-06-10,2022-06-10
+1097,ibrahim nnamdi,ibrahim.nnamdi1097@example.com,+2348049522618,Benin City ,2023-07-16,2023-07-16
+1292,Ada Sani,ada.sani1292@example.com,08014302047,Abuja,2023-11-23,2023-11-23
+1047,Funke Danjuma,funke.danjuma1047@example.com,08098866676,Enugu,2023-05-22,2023-05-22
+1184,Bola Danjuma,,08092914505,KANO,2023-03-11,2023-03-11
+1051,Kemi Ibrahim,kemi.ibrahim1051@example.com,+2348083784068,Benin City,2023/04/15,2023-04-15
+1159,  Ngozi Okeke ,ngozi.okeke1159@example.com,+2348013625342,Port Harcourt,2024/01/09,2024-01-09
+1240,Aisha Balogun,aisha.balogun1240@example.com,08056022566,Ibadan,2024-04-08,2024-04-08
+1150,ADA OKAFOR,ada.okafor1150@example.com,,Benin City,2022-11-13,2022-11-13
+1223,CHINEDU ALADE,chinedu.alade1223@example.com,0808 388 1997,Kaduna,15/01/2023,2023-01-15
+1155,Hauwa Okon,hauwa.okon1155@example.com,,Lagos,2023-04-28,2023-04-28
+1049,Aisha Sani,aisha.sani1049@example.com,08038571671,Port Harcourt,2023-02-24,2023-02-24
+1086,  Bisi Bello ,bisi.bello1086@example.com,,Abuja,2022-01-08,2022-01-08
+1237,tunde nnamdi,TUNDE.NNAMDI1237@EXAMPLE.COM,+2348036004916,Abuja,2023-07-08,2023-07-08
+1231,Segun Sani,segun.sani1231@example.com,08039862918,Lagos,2022-04-06,2022-04-06
+1036,chidi yakubu,chidi.yakubu1036@example.com,08073155489,Ibadan,2024/05/10,2024-05-10
+1190,Zainab Adeyemi,zainab.adeyemi1190@example.com,08099931613,ENUGU,2023-01-16,2023-01-16
+1176,Chidi Alade,chidi.alade1176@example.com,08021838188,Ibadan,2024-04-30,2024-04-30
+1256,  Titi Yakubu ,titi.yakubu1256@example.com,08076897901,Benin City,2023-03-16,2023-03-16
+1205,  Grace Ibrahim ,grace.ibrahim1205@example.com,+2348061778440,Abuja,2023-12-19,2023-12-19
+1198,  Halima Abubakar ,halima.abubakar1198@example.com,0802 797 6094,Lagos,2023-11-17,2023-11-17
+1206,Yusuf Nnamdi,yusuf.nnamdi1206@example.com,08013795911,Kaduna,2022-03-25,2022-03-25
+1245,Bola Okeke,bola.okeke1245@example.com,08056626382,Ibadan,2022-03-31,2022-03-31
+1166,  Chinedu Okon ,chinedu.okon1166@example.com,08018821881,enugu,2024/06/10,2024-06-10
+1087,Seyi Etim,seyi.etim1087@example.com,08017143479,Ibadan,2023-08-21,2023-08-21
+1096,Peter Alade,peter.alade1096@example.com,08049916108,Benin City,26/03/2023,2023-03-26
+1136,YUSUF YAKUBU,yusuf.yakubu1136@example.com,08080802699,Port Harcourt,2022-01-10,2022-01-10
+1126,  Folake Adeyemi ,folake.adeyemi1126@example.com,08028479467,Ibadan,2023-12-08,2023-12-08
+1273,DANIEL MUSA,daniel.musa1273@example.com,+2348014242084,ibadan,2022-02-15,2022-02-15
+1132,Grace Yakubu,grace.yakubu1132@example.com,08015735440,Kaduna,2022-12-09,2022-12-09
+1140,  Emeka Abubakar ,emeka.abubakar1140@example.com,08064526378,kaduna,2024/03/03,2024-03-03
+1031,Titi Adebayo,titi.adebayo1031@example.com,08065920005,Lagos,2024-03-30,2024-03-30
+1282,Nneka Ibrahim,nneka.ibrahim1282example.com,08016325197,Kano,2022-05-23,2022-05-23
+1249,KEMI SALAMI,kemi.salami1249@example.com,08087436736,benin city,2022-05-09,2022-05-09
+1044,Ngozi Bakare,ngozi.bakare1044@example.com,0809 635 6336,enugu,2022-01-30,2022-01-30
+1068,Nneka Okeke,nneka.okeke1068@example.com,08013769882,Ibadan,2023-12-17,2023-12-17
+1227,Kemi Adeyemi,kemi.adeyemi1227@example.com,08061305790,kaduna,2024-03-11,2024-03-11
+1012,Funke Olawale,funke.olawale1012@example.com,+2348036116972,BENIN CITY,2022-09-30,2022-09-30
+1230,tunde lawal,tunde.lawal1230@example.com,08058434767,Benin City,2024-04-08,2024-04-08
+1020,NNEKA ADEBAYO,nneka.adebayo1020@example.com,08012747414,Ibadan,2023/10/19,2023-10-19
+1125,Ada Sani,ada.sani1125@example.com,08039373764,kano,2023-08-14,2023-08-14
+1163,Seyi Lawal,seyi.lawal1163@example.com,08072783925,Lagos,2023-06-23,2023-06-23
+1081,  Nneka Etim ,nneka.etim1081@example.com,08087892505,Port Harcourt,2022-11-18,2022-11-18
+1138,NNEKA SANI,nneka.sani1138@example.com,+2348090097783,Kaduna ,14/06/2024,2024-06-14
+1124,  Chinedu Danjuma ,chinedu.danjuma1124@example.com,08035947348,Abuja,2023/12/08,2023-12-08
+1053,  Titi Bakare ,titi.bakare1053@example.com,08027528726,Benin City,2022/01/11,2022-01-11
+1121,Halima Balogun,halima.balogun1121@example.com,08016853657,Port Harcourt ,2023-11-24,2023-11-24
+1039,Halima Ogunleye,halima.ogunleye1039@example.com,+2348015034008,Abuja ,2024-05-05,2024-05-05
+1197,Bola Ogunleye,bola.ogunleye1197@example.com,08045298530,Abuja,2022/12/12,2022-12-12
+1017,Funke Eze,funke.eze1017@example.com,08013461507,Kano,2024-05-03,2024-07-24
+1252,Aisha Johnson,aisha.johnson1252@example.com,08022355116,Ibadan ,2022-09-21,2022-09-21
+1109,Chidi Udo,CHIDI.UDO1109@EXAMPLE.COM,08083152176,benin city,2022-07-05,2022-07-05
+1082,Amina Ibrahim,amina.ibrahim1082@example.com,0802 490 6099,Benin City,unknown,2022-03-19
+1019,Hauwa Okeke,HAUWA.OKEKE1019@EXAMPLE.COM,,Lagos,2022-03-13,2022-03-13
+1213,Funke Ogunleye,funke.ogunleye1213@example.com,08078674271,Benin City,2023-05-13,2023-05-13
+1130,  Zainab Ade ,zainab.ade1130@example.com,,Kano,2022-10-18,2022-10-18
+1066,CHINEDU BAKARE,chinedu.bakare1066@example.com,,Lagos ,2023/11/28,2023-11-28
+1022,Yusuf Lawal,yusuf.lawal1022@example.com,08033751475,Kaduna,2024-03-09,2024-03-09
+1287,grace umeh,grace.umeh1287@example.com,,Abuja,2022-04-24,2022-04-24
+1186,PETER ALADE,peter.alade1186@example.com,+2348067966682,Kaduna,2022-08-04,2022-08-04
+1297,ADA MUSA,ada.musa1297@example.com,08072848859,Kano,09/04/2023,2023-04-09
+1255,Emeka Udo,emeka.udo1255example.com,0803 511 3418,Kaduna,2024-02-14,2024-02-14
+1069,AMINA OGUNLEYE,amina.ogunleye1069@example.com,08076378422,Port Harcourt,12/05/2024,2024-05-12
+1147,YUSUF ADEBAYO,yusuf.adebayo1147@example.com,08030918371,ibadan,2022-02-22,2022-02-22
+1111,Seyi Adeyemi,seyi.adeyemi1111@example.com,0806 730 0790,Kano ,2023-08-15,2023-08-15
+1170,TUNDE SANI,tunde.sani1170@example.com,08031253986,abuja,2022-01-02,2022-01-02
+1267,Femi Obi,femi.obi1267@example.com,+2348045179113,PORT HARCOURT,2023-07-15,2023-07-15
+1218,Ifeoma Eze,ifeoma.eze1218@example.com,08014203076,Lagos,2022-07-29,2022-07-29
+1244,Seyi Ade,seyi.ade1244@example.com,+2348058146529,Port Harcourt,2023-05-11,2023-05-11
+1098,Aisha Musa,aisha.musa1098@example.com,08096508635,Ibadan,2022-08-24,2022-08-24
+1070,Yusuf Umeh,yusuf.umeh1070@example.com,+2348094469432,kaduna,07/01/2023,2023-01-07
+1160,Obinna Okafor,obinna.okafor1160@example.com,+2348095056469,Lagos,2024-03-14,2024-03-14
+1204,Daniel Danjuma,daniel.danjuma1204@example.com,08096569989,Abuja ,2023-03-08,2023-03-08
+1266,TUNDE JOHNSON,tunde.johnson1266@example.com,08096597877,Kaduna ,2023-08-04,2023-08-04
+1100,Tunde Umeh,tunde.umeh1100example.com,+2348060352238,Lagos,17/03/2023,2023-03-17
+1183,,grace.yakubu1183@example.com,08027148943,Lagos,2022-01-23,2022-01-23
+1201,Peter Olawale,peter.olawale1201@example.com,08022897913,Enugu,2023-08-03,2023-08-03
+1219,  Aisha Ade ,aisha.ade1219@example.com,08021730882,Benin City,2023/12/12,2023-12-12
+1123,kemi adebayo,kemi.adebayo1123example.com,08035728622,Kaduna,2024-03-10,2024-03-10
+1115,Peter Yakubu,peter.yakubu1115@example.com,0806 779 2138,Kaduna,2022-04-20,2022-04-20
+1028,ada johnson,ada.johnson1028@example.com,08057017385,Kaduna,2022-05-06,2022-05-06
+1226,Sola Adebayo,sola.adebayo1226example.com,+2348048918281,Enugu,31/07/2022,2022-07-31
+1046,HALIMA LAWAL,halima.lawal1046@example.com,+2348058140861,Kaduna,2023-05-26,2023-05-26
+1169,folake okafor,folake.okafor1169@example.com,08024537657,LAGOS,2024-03-01,2024-03-01
+,Ghost Customer,ada.sani1125@example.com,08039373764,kano,2023-08-14,2023-08-14
+1075,Folake Ogunleye,folake.ogunleye1075@example.com,0802 319 5130,kano,2024-03-26,2024-03-26
+1188,Funke Balogun,funke.balogun1188@example.com,08039052337,Port Harcourt,2023-08-29,2023-08-29
+1004,funke abubakar,funke.abubakar1004@example.com,08048601278,kano,2022-12-15,2022-12-15
+1174,  Halima Johnson ,halima.johnson1174@example.com,08053624002,Port Harcourt ,2022-06-25,2022-06-25
+1189,MUSA BAKARE,musa.bakare1189@example.com,08039532143,Benin City,18/06/2024,2024-08-25
+1236,Hauwa Sani,hauwa.sani1236@example.com,,Enugu,2022-03-23,2022-03-23
+1209,Seyi Ade,seyi.ade1209example.com,08046305173,Enugu,2023/03/10,2023-03-10
+1058,Zainab Salami,ZAINAB.SALAMI1058@EXAMPLE.COM,08075767327,Kaduna,01/12/2022,2022-12-01
+1220,Amina Abubakar,amina.abubakar1220@example.com,08069852110,Kaduna,24/01/2024,2024-01-24
+1055,Daniel Alade,DANIEL.ALADE1055@EXAMPLE.COM,08035186307,Lagos,2023/09/30,2023-09-30
+1192,Ngozi Udo,ngozi.udo1192@example.com,08044723454,abuja,2024/05/30,2024-05-30
+1027,KEMI OJO,kemi.ojo1027@example.com,08011861671,Kano,2022-11-19,2022-11-19
+1107,ifeoma bakare,ifeoma.bakare1107@example.com,08069506840,Abuja,2022/05/08,2022-05-08
+1057,Tunde Balogun,tunde.balogun1057@example.com,+2348073185648,Enugu,2024-01-22,2024-01-22
+1066,CHINEDU BAKARE,chinedu.bakare1066@example.com,,Lagos ,2023/11/28,2023-11-28
+1235,Ngozi Danjuma,ngozi.danjuma1235@example.com,08054220787,Ibadan,2023-03-28,2023-03-28
+1173,Amina Okeke,amina.okeke1173@example.com,08060669311,Kaduna,09/04/2024,2024-04-09
+1257,CHIDI YAKUBU,chidi.yakubu1257@example.com,08034916631,Kaduna ,2024-04-18,2024-04-18
+1211,  Obinna Okon ,obinna.okon1211@example.com,,LAGOS,2023-02-14,2023-02-14
+1078,Ibrahim Abubakar,ibrahim.abubakar1078@example.com,,Ibadan,2024-05-27,2024-05-27
+1078,Ibrahim Abubakar,ibrahim.abubakar1078@example.com,,Ibadan,2024-05-27,2024-05-27
+1149,emeka sani,emeka.sani1149@example.com,08042927294,lagos,2022-03-27,2022-03-27
+1189,MUSA BAKARE,musa.bakare1189@example.com,08039532143,ABUJA,18/06/2024,2024-06-18
+1148,Kemi Etim,kemi.etim1148@example.com,0802 293 5591,Benin City,2023-05-31,2023-05-31
+1169,folake okafor,folake.okafor1169@example.com,08024537657,Benin City,2024-03-01,2024-08-17
+1194,Yusuf Olawale,yusuf.olawale1194@example.com,08048156970,lagos,2022-10-02,2022-10-02
+1122,ifeoma okon,ifeoma.okon1122@example.com,08087059121,Kaduna,04/01/2024,2024-01-04
+1032,Titi Musa,titi.musa1032example.com,08026868746,kano,2022-06-16,2022-06-16
+1110,Ngozi Nnamdi,ngozi.nnamdi1110@example.com,0806 833 8143,Kano,2023-09-13,2024-02-29
+1140,  Emeka Abubakar ,emeka.abubakar1140@example.com,08064526378,kaduna,2024/03/03,2024-03-03
+1221,  Titi Alade ,titi.alade1221example.com,+2348053529432,Kaduna,2022-08-05,2022-08-05
+1175,Femi Salami,,0809 429 7440,Kano ,2022-03-14,2022-03-14
+1271,  Segun Ogunleye ,segun.ogunleye1271@example.com,08059167234,Lagos,10/07/2022,2022-07-10
+1014,seyi sani,seyi.sani1014@example.com,0808 707 9038,Kaduna,2022-06-08,2022-06-08
+1284,  Aisha Balogun ,aisha.balogun1284@example.com,08054609963,BENIN CITY,18/04/2024,2024-04-18
+1079,Peter Nwosu,peter.nwosu1079@example.com,08015541091,Port Harcourt,2023-06-11,2023-06-11
